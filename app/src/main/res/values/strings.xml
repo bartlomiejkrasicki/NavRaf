@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NavRaf</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYmFydGV4MTAyIiwiYSI6ImNrMjh5eXBibzAzcHczY21qb2wza3ZpZDYifQ.Q7mPglzUn7mKvoswXlgoiA</string>
+</resources>
